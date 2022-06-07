@@ -3,7 +3,7 @@ Bruteforce bcrypt script
 
 # Requirements
 - Make sure you have node installed in your computer
-- You must have a file wordlist and a encrypted hash to compare to
+- You must have a file wordlist and an encrypted hash to compare to
 
 # Usage
 
